@@ -13,6 +13,11 @@ body {
     overflow-x: hidden;
 }
 
+a {
+    color: #40E0D0;
+    text-decoration: none;
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -281,8 +286,6 @@ footer p {
 }
 
 footer a {
-    color: #40E0D0;
-    text-decoration: none;
     transition: color 0.3s ease;
 }
 
