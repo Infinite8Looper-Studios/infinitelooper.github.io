@@ -66,7 +66,7 @@ nav {
 }
 
 nav a {
-    color: #ffffff;
+    color: #40E0D0;
     text-decoration: none;
     font-weight: 400;
     transition: color 0.3s ease;
@@ -74,7 +74,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #40E0D0;
+    color: #ffffff;
 }
 
 nav a::after {
