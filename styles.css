@@ -7,14 +7,14 @@
 
 body {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    background: #0E0F10;
+    background: #0B0C0D;
     color: #ffffff;
     line-height: 1.6;
     overflow-x: hidden;
 }
 
 a {
-    color: #63ABB3;
+    color: #1AACB5;
     text-decoration: none;
 }
 
@@ -26,7 +26,7 @@ a {
 
 /* Header */
 header {
-    background: #0E0F10;
+    background: #0B0C0D;
     backdrop-filter: blur(10px);
     border-bottom: 1px solid #1a1b1c;
     position: fixed;
@@ -57,7 +57,7 @@ header .container {
 .logo-text {
     font-size: 1.5rem;
     font-weight: 600;
-    color: #63ABB3;
+    color: #1AACB5;
 }
 
 nav {
@@ -66,7 +66,7 @@ nav {
 }
 
 nav a {
-    color: #63ABB3;
+    color: #1AACB5;
     text-decoration: none;
     font-weight: 400;
     transition: color 0.3s ease;
@@ -84,7 +84,7 @@ nav a::after {
     left: 0;
     width: 0;
     height: 2px;
-    background: #63ABB3;
+    background: #1AACB5;
     transition: width 0.3s ease;
 }
 
@@ -101,7 +101,7 @@ main {
 .hero {
     padding: 4rem 0;
     text-align: center;
-    background: #0E0F10;
+    background: #0B0C0D;
 }
 
 .hero-image {
@@ -128,7 +128,7 @@ section {
 }
 
 .services {
-    background: #0E0F10;
+    background: #0B0C0D;
 }
 
 .contact {
@@ -140,7 +140,7 @@ h2 {
     font-weight: 600;
     text-align: center;
     margin-bottom: 3rem;
-    color: #63ABB3;
+    color: #1AACB5;
 }
 
 .about p {
@@ -160,8 +160,8 @@ h2 {
 }
 
 .service-card {
-    background: rgba(99, 171, 179, 0.05);
-    border: 1px solid rgba(99, 171, 179, 0.2);
+    background: rgba(26, 172, 181, 0.05);
+    border: 1px solid rgba(26, 172, 181, 0.2);
     border-radius: 12px;
     padding: 2rem;
     text-align: center;
@@ -170,14 +170,14 @@ h2 {
 
 .service-card:hover {
     transform: translateY(-5px);
-    border-color: rgba(99, 171, 179, 0.4);
+    border-color: rgba(26, 172, 181, 0.4);
 }
 
 .service-card h3 {
     font-size: 1.5rem;
     font-weight: 600;
     margin-bottom: 1rem;
-    color: #63ABB3;
+    color: #1AACB5;
 }
 
 .service-card p {
@@ -201,24 +201,24 @@ h2 {
     display: inline-block;
     font-size: 1.5rem;
     font-weight: 500;
-    color: #63ABB3;
+    color: #1AACB5;
     text-decoration: none;
     padding: 1rem 2rem;
-    border: 2px solid #63ABB3;
+    border: 2px solid #1AACB5;
     border-radius: 8px;
     transition: all 0.3s ease;
 }
 
 .contact-email:hover {
-    background: #63ABB3;
-    color: #0E0F10;
+    background: #1AACB5;
+    color: #0B0C0D;
     transform: translateY(-2px);
 }
 
 /* Privacy Policy */
 .privacy-policy {
     padding: 4rem 0;
-    background: #0E0F10;
+    background: #0B0C0D;
 }
 
 .privacy-policy h1 {
@@ -226,7 +226,7 @@ h2 {
     font-weight: 600;
     text-align: center;
     margin-bottom: 1rem;
-    color: #63ABB3;
+    color: #1AACB5;
 }
 
 .last-updated {
@@ -259,8 +259,8 @@ h2 {
 }
 
 .policy-notice {
-    background: rgba(99, 171, 179, 0.1);
-    border: 1px solid rgba(99, 171, 179, 0.3);
+    background: rgba(26, 172, 181, 0.1);
+    border: 1px solid rgba(26, 172, 181, 0.3);
     border-radius: 8px;
     padding: 1.5rem;
     margin-top: 2rem;
@@ -268,7 +268,7 @@ h2 {
 
 .policy-notice p {
     margin: 0;
-    color: #63ABB3;
+    color: #1AACB5;
     font-weight: 500;
 }
 
