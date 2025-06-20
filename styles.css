@@ -26,7 +26,7 @@ a {
 
 /* Header */
 header {
-    background: #000000;
+    background: #0E0F10;
     backdrop-filter: blur(10px);
     border-bottom: 1px solid #333;
     position: fixed;
@@ -101,7 +101,7 @@ main {
 .hero {
     padding: 4rem 0;
     text-align: center;
-    background: #000000;
+    background: #0E0F10;
 }
 
 .hero-image {
